@@ -125,6 +125,24 @@ const MENU: MenuCategory[] = [
       { name: "Arroz negro", description: "Con su alioli suave.", price: "22,00 €/pax" },
       { name: "Arroz bogavante azul", description: "La joya de nuestra cocina.", price: "33,00 €/pax" }
     ]
+  },
+  {
+    title: "PARA MINI INDI@S (Sólo para niños)",
+    items: [
+      { name: "Nuggets de pollo caseros con patatas", description: "Pechuga de pollo de corral.", price: "8,00 €" },
+      { name: "Huevos fritos con patatas", description: "Huevos de aldea.", price: "7,00 €" },
+      { name: "Escalopines de ternera", description: "Con patatas fritas.", price: "8,50 €" }
+    ]
+  },
+  {
+    title: "PARA GOLOS@S (100% Caseros)",
+    items: [
+      { name: "Crema de limoncello", description: "Fresca y digestiva.", price: "6,00 €" },
+      { name: "Tarta de queso", description: "Nuestra receta secreta.", price: "6,00 €" },
+      { name: "Tarta de turrón", description: "Sabor tradicional.", price: "6,00 €" },
+      { name: "Frixuelos rellenos", description: "Típico asturiano.", price: "6,00 €" },
+      { name: "Brownie de chocolate", description: "Con helado de vainilla.", price: "6,00 €" }
+    ]
   }
 ];
 
