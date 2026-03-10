@@ -581,7 +581,7 @@ const Visit = () => {
 
           <div className="rounded-3xl overflow-hidden shadow-2xl h-[500px] lg:h-auto min-h-[400px] border-8 border-white">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m12!1m3!1d2890.7671850130!2d-5.6011127!3d43.5475682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd367a518c60dc13%3A0x3c510788a29bfb8a!2sRestaurante%20El%20Indio%20Terraza%20Club!5e0!3m2!1ses!2ses!4v1710000000000!5m2!1ses!2ses" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2890.7671850130!2d-5.6011127!3d43.5475682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd367a518c60dc13%3A0x3c510788a29bfb8a!2sRestaurante%20El%20Indio%20Terraza%20Club!5e0!3m2!1ses!2ses!4v1741612800000!5m2!1ses!2ses" 
               className="w-full h-full border-0"
               allowFullScreen={true}
               loading="lazy" 
