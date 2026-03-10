@@ -1,0 +1,5 @@
+{
+  "name": "El Indio Terraza Club",
+  "description": "Web oficial de El Indio Terraza Club, chiringuito en Playa de Estaño, Gijón. Sabores del Cantábrico frente al mar, conciertos en directo y el mejor ambiente.",
+  "requestFramePermissions": ["geolocation"]
+}
